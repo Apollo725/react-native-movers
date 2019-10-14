@@ -1,0 +1,14 @@
+{
+   "expo": {
+    "name": "Book a Move",
+    "version": "1.0.0",
+    "slug": "bookamove",
+    "sdkVersion": "22.0.0",
+    "ios": {
+      "bundleIdentifier": "com.john.bookamove"
+    },
+    "android": {
+      "package": "com.john.bookamove"
+    }
+   }
+ }
