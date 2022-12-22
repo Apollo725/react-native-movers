@@ -5,7 +5,7 @@
   "devDependencies": {
     "eslint-config-rallycoding": "^3.2.0",
     "jest-expo": "^22.0.0",
-    "react-native-scripts": "1.6.0",
+    "react-native-scripts": "1.14.1",
     "react-test-renderer": "16.0.0-beta.5",
     "reactotron-react-native": "^1.13.2"
   },
